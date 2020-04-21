@@ -56,4 +56,21 @@ Profitez d'un moment d'inadvertance de votre ennemi pour **attaquer sa base dire
 La documentation est disponible [ici](Kaboum/Notice_de_montage.md)
 
 
+## La guitare pour les héros par Allan Guégan et Simon Heurtebise
+
+
+![GIF](La_Guitare_pour_les_heros/gif.gif)
+
+Détruisez les tuiles lumineuses ! 
+Pour cela, il faut appuyer sur les boutons attitrés quand la tuile correspondante dépasse la zone claire. 
+La vitesse augmente tout au long du jeu.
+
+Vous êtes éliminé si vous appuyez trop tôt, c’est à dire avant que la led de tête n’arrive entièrement dans la zone claire. N’appuyez pas trop tard non plus, appuyez avant que la tuile lumineuse disparaisse. 
+
+Le nombre de points augmentent par temps de pression. Plus vous appuyez longtemps, plus vous remportez des points. Attention à ne pas rester 
+appuyer trop longtemps, vous risquez de perdre la partie.
+
+La documentation est disponible [ici](La_Guitare_pour_les_heros/Documentation.md)
+
+
 [**home**](../README.md)
