@@ -121,4 +121,26 @@ Lorsque le sous-marin capte la puce mystère, ses lumières gagnent en intensit�
 La documentation est disponible [ici](SoNAR/SoNAR.md)
 
 
+---
+## Speed Colors par Marie Jollivet et Clara Mahé
+
+![gif](Speed_Colors/gif-l.gif)
+
+Des couleurs s'affiche sur une écran, il faut appuyer sur la couleur correspondante.
+
+Speedcolors est un jeu à deux joueurs. Chaque joueur possède trois boutons, chaque bouton est associé à un LED colorée.
+
+A chaque tour, les joueurs doivent appuyer sur le bouton correspondant à la LED affichant la même couleur que celle affichée sur le ruban principal.
+
+Le jeu continu jusqu'à ce qu'un des joueurs se trompe et perde la partie. Le ruban de LED du joueur perdant s'affiche en rouge et celui du gagnant en blanc.
+
+
+Un joueur perd, son ecran lumineux s'affiche en rouge à contrario un joueur gagne, son ecran lumineux s'affiche en blanc
+
+Le temps est depassé, les joueurs n'ont pas joué à temps.
+
+La documentation est disponible [ici](Speed_Colors/readme.md)
+
+
+
 [**home**](../README.md)
