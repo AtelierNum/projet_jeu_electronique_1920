@@ -56,7 +56,7 @@ Nous avons tracé ces mesures sur la palque de contre-plaqué.
 
 Nous avons réalisé les découpes à suivre avant d'assembler chaque partie entre elles.
 
-![decoup](Images/decoup.jpg)
+![decoup](Images/decoup.JPG)
 
 Ensuite, à l'atelier, nous avons monté et fixé toutes les planches de bois ensemble.
 
