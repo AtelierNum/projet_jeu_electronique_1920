@@ -73,4 +73,23 @@ appuyer trop longtemps, vous risquez de perdre la partie.
 La documentation est disponible [ici](La_Guitare_pour_les_heros/Documentation.md)
 
 
+## bouton-LED-bouton par Victor Pérouse & Alice Briolat
+
+
+![Readme/Jeu.gif](Led_Button/Jeu.gif)
+
+Une LED et deux boutons se joue à deux. Le jeu consiste à appuyez sur votre bouton au moment où l'intensité lumineuse de la LED centrale vous parait la plus forte. Nous voulions réaliser un jeu à la fois simple mais rapidement addictif.
+
+La LED centrale varie en intensité lumineuse de manière imprévisible.
+
+Vous avez à disposition un bouton et une écran chacun.
+Vous devez appuyez au moment où vous pensez que l'intensité lumineuse est la plus importante - sans limite de temps.
+
+Une fois que vous avez appuyé sur le bouton, votre score s'affiche de 0 à 1000. Le score le plus élevé remporte la partie. (On peut aussi imaginer que le vainqueur est le joueur le plus proche de 0 ou de 500 par exemple.)
+
+Plus qu'à comparer les chiffres !
+Et c'est reparti ! - Restart
+
+La documentation est disponible [ici](Led_Button/Readme.md)
+
 [**home**](../README.md)
