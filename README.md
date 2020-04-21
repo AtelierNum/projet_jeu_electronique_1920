@@ -8,6 +8,7 @@ Files can be found on [github](https://github.com/AtelierNum/projet_jeu_electron
 
 Les fichiers peuvent-être téléchargés sur [github](https://github.com/AtelierNum/projet_jeu_electronique_1920)
 
+---
 ## Boutons Musicaux par Aurélien Colloc, Léa Ganais et Meriem Gharbi
 
 ![GIF](Boutons_musicaux/Boutons_Musicaux_light.gif)
@@ -32,7 +33,7 @@ A noter, à chaques éliminations le jeu indique grâce aux LED qui est élimin�
 
 La documentation est disponible [ici](Boutons_musicaux/jeu.md)
 
-
+---
 ## Kaboum par Juliette Herlem et Paul Joly
 
 ![GIF](Kaboum/Kaboum.gif)
@@ -55,7 +56,7 @@ Profitez d'un moment d'inadvertance de votre ennemi pour **attaquer sa base dire
 
 La documentation est disponible [ici](Kaboum/Notice_de_montage.md)
 
-
+---
 ## La guitare pour les héros par Allan Guégan et Simon Heurtebise
 
 
@@ -72,7 +73,7 @@ appuyer trop longtemps, vous risquez de perdre la partie.
 
 La documentation est disponible [ici](La_Guitare_pour_les_heros/Documentation.md)
 
-
+---
 ## bouton-LED-bouton par Victor Pérouse & Alice Briolat
 
 
@@ -91,5 +92,15 @@ Plus qu'à comparer les chiffres !
 Et c'est reparti ! - Restart
 
 La documentation est disponible [ici](Led_Button/Readme.md)
+
+---
+## MaracaGame 🎼 par Noémie El Kholti et Julie Thierry   
+
+![gif](Maraca_game/MARAGAME-l.gif)
+
+A l'aide de deux maracas, deux joueurs collaborent pour reproduire les notes dans la zone de jeu. Inspiré des célèbres jeux vidéo de rythme Samba de Amigo (SEGA, 1999) et Guitar Hero (Activision, 2005), chaque ruban de LED est associé à une maraca. Le but est d'être réactif, pour ne pas manquer une note dans la zone de jeu. Si trop de fausses notes sont réalisées, alors la partie est finie. Trois niveaux de vitesse sont proposés sur une mélodie endiablée. 
+
+La documentation est disponible [ici](Maraca_game/readme.md)
+
 
 [**home**](../README.md)
