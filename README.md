@@ -103,4 +103,22 @@ A l'aide de deux maracas, deux joueurs collaborent pour reproduire les notes dan
 La documentation est disponible [ici](Maraca_game/readme.md)
 
 
+---
+## SoNAR par Arslan Sifaoui et Ulysse Ducamp
+
+![gif](SoNAR/gif.gif)
+
+SoNAR est un jeu électronique faisant appel à l'écoute et à la concentration de son utilisateur.
+
+Le jeu se compose d'un boîtier dont la forme évoque un véhicule sous-marin et d'une planche en carton faisant office de carte dans laquelle on doit déplacer le boîtier. 
+
+Sur la planche sont disposés des stickers RFID. Le sous-marin est doté d'un capteur de puces RFID, cela lui permet de savoir où il se situe sur la carte en fonction des puces qu'il capte. 
+
+Le but du jeu est de positionner le sous-marin sur une puce mystère qui est déterminée aléatoirement. Pour que l'utilisateur puisse trouver la puce mystère, le sous-marin est équipé d'un sonar, un système qui émet un son plus ou moins rythmé en fonction d'à quel la point la puce qu'il capte est éloignée ou proche de la puce mystère. Cette mécanique de jeu "Chaud/Froid" permet à l'usager de déplacer le sous-marin en fonction des sons qu'il entend pour trouver la puce mystère. 
+
+Lorsque le sous-marin capte la puce mystère, ses lumières gagnent en intensité et son anneau voit une de ses 16 LEDs s'allumer. Une nouvelle puce mystère est alors déterminée, toujours aléatoirement. L'utilisateur devra ainsi trouver 16 puces mystères afin d'allumer les 16 LEDs de l'anneau.
+
+La documentation est disponible [ici](SoNAR/SoNAR.md)
+
+
 [**home**](../README.md)
