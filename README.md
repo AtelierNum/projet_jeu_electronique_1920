@@ -183,9 +183,9 @@ Pour ajouter du gameplay à notre jeu, nous avons choisi de donner trois vies à
 La documentation est disponible [ici](Touch_Me/documentation.md)
 
 ---
-## Tron run par Aurore Tanguy et Hugo Prévost
+## Tron run par Elliot Chevalier et Ronan Chopineaux
 
-![Tron_Run](Tron_Run/tronrace.gif)
+![Tron_Run](Tron_Run/Tronrace.gif)
 
 Tron race est un jeu de type arcade fonction sous arduino, monté initialement sur une carte arduino UNO.
 
