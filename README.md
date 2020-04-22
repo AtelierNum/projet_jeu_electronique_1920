@@ -182,6 +182,41 @@ Pour ajouter du gameplay à notre jeu, nous avons choisi de donner trois vies à
 
 La documentation est disponible [ici](Touch_Me/documentation.md)
 
+---
+## Tron run par Aurore Tanguy et Hugo Prévost
+
+![Tron_Run](Tron_Run/tronrace.gif)
+
+Tron race est un jeu de type arcade fonction sous arduino, monté initialement sur une carte arduino UNO.
+
+Le jeu reprend l'idée et l'univers des courses de motos de la célèbre saga ***Tron***.
+
+Le gameplay est simple et intuitif : à chaque pression sur le bouton correspondant à votre couleur de joueur, votre LED avance d'une unité. Ainsi, pour gagner la course et faire s'illuminer le circuit de votre couleur il faudra être plus rapide que votre adversaire.
+
+À vous de jouer, bonne chance !
+
+La documentation est disponible [ici](Tron_Run/TronRace.md)
+
+
+---
+## Witching Hour par Aurore Tanguy et Hugo Prévost
+
+![Tron_Run](Tron_Run/tronrace.gif)
+
+Tron race est un jeu de type arcade fonction sous arduino, monté initialement sur une carte arduino UNO.
+
+Le jeu reprend l'idée et l'univers des courses de motos de la célèbre saga ***Tron***.
+
+Le gameplay est simple et intuitif : à chaque pression sur le bouton correspondant à votre couleur de joueur, votre LED avance d'une unité. Ainsi, pour gagner la course et faire s'illuminer le circuit de votre couleur il faudra être plus rapide que votre adversaire.
+
+À vous de jouer, bonne chance !
+
+La documentation est disponible [ici](Tron_Run/TronRace.md)
+
+
+
+
+
 
 
 
