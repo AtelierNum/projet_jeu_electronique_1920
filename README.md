@@ -8,70 +8,47 @@ Files can be found on [github](https://github.com/AtelierNum/projet_jeu_electron
 
 Les fichiers peuvent-être téléchargés sur [github](https://github.com/AtelierNum/projet_jeu_electronique_1920)
 
----
-## Boutons Musicaux par Aurélien Colloc, Léa Ganais et Meriem Gharbi
-
-![GIF](Boutons_musicaux/Boutons_Musicaux_light.gif)
-
-Les boutons musicaux est un jeu électronique inspiré des chaises musicales.
-
-Nous vous proposons une revisite, de l'illustre jeu de la chaise musicale.
-
-Comme dans le jeu original, il y a une musique qui guide les joueurs. Toutefois, à la place des chaises on met des boutons. Et on utilise des Leds pour guider les joueurs entre les manches.
-
-Le jeu est composé d’un boîtier central auquel sont reliés des boutons
-
-(4 exactement). Il y a une succession de tours/manches et à l’issue de celles-ci un des joueurs est éliminé.
-
-Dans notre exemple, il y a 4 participants et donc 3 manches pour éliminer 3 joueurs et déterminer le gagnant puisqu’il faut être le dernier pour remporter la partie.
-
-Pour être le vainqueur, il faut être le plus rapide à presser le bouton à l'arrêt de la musique et de l’animation lumineuse.
-
-Le dernier à appuyer sur le bouton est éliminé et doit attendre la fin de partie pour recommencer.
-
-A noter, à chaques éliminations le jeu indique grâce aux LED qui est éliminé.
-
-La documentation est disponible [ici](Boutons_musicaux/jeu.md)
 
 ---
-## Kaboum par Juliette Herlem et Paul Joly
+## Totem Panic par [Théo Geiller](theogeiller.com) and [Raphaël Perraud](raphaelperraud.com)
 
-![GIF](Kaboum/Kaboum.gif)
+![gif](Totem_Panic/totem_panic.gif)
 
+Natives are processing a ritual in order that their departed will be able to go to the Nirvana, but the totem gone crazy! Will you achieve to help them and stay on air until the end of the ritual?
+According to the duration the player keeps the soul ball on air, and he will get a shaman rank, from "élan tranquille" to "aigle noir". 
 
-La base adverse vous attaque mais vous n'allez pas vous laisser faire ! Pour survivre à cette guerre, un seul moyen : **défendre votre base** et attaquer l'ennemi. 
+> For now, no one went further than "plume tranquille", we still are waiting for great shamans !
 
-Vous avez deux solutions : utiliser la force pure en envoyant des **bombes rouges** tout droit vers l’ennemi, ou bien utiliser la **magie verte** pour les affaiblir.
+The player can start a game by placing his hand upon the shaman on the right of the board game, and control the soul ball by raising or lowering his hand upon it.
 
-Quand deux bombes de même couleur se rencontrent (la vôtre et celle de votre adversaire), cela crée une explosion et elles disparaissent toutes deux. 
-**Plus une explosion est proche de votre base, plus vous subissez de dégâts**.
-Répondre à la bonne couleur et au bon moment est donc indispensable à votre survie. 
-> Si votre adversaire vous envoie une bombe rouge, appuyer rapidement sur le bouton rouge. Faites de même pour les sorts de magie verte.
+La documentation est disponible [ici](Totem_Panic/README.md)
 
-Vous pouvez toujours voir **vos points sur l'afficheur** devant vous. Attention, s'ils descendent à 0, vous avez perdu ! 
-> Une fois la partie terminée, les afficheurs se remettent à 200 points et la partie recommence ! 
-
-Profitez d'un moment d'inadvertance de votre ennemi pour **attaquer sa base directement**.
-> Une attaque rouge ou verte qui va jusqu’à la base ennemie, sans se faire toucher par une bombe de même couleur : c'est beaucoup plus de points de gagnés !
-
-La documentation est disponible [ici](Kaboum/Notice_de_montage.md)
 
 ---
-## La guitare pour les héros par Allan Guégan et Simon Heurtebise
+## Witching Hour par Jeanne Verstraete et Emilie Schaefer
 
+![Witching Hour](Witching_Hour/gif.gif)
 
-![GIF](La_Guitare_pour_les_heros/gif.gif)
+A travers le trou de la serrure d'une chambre d'enfant, on peut observer un petit garçon dormir dans son lit, sa chambre étant éclairée par le faible halo de lumière diffusé par une étrange lampe. Pendant la nuit, des monstres s'invitent dans la chambre et viennent infiltrer de terribles cauchemars dans les rêves du petit garçon. Le rôle du joueur est de chasser ces monstres le plus longtemps possible de la chambre de l'enfant, afin de protéger son sommeil. 
 
-Détruisez les tuiles lumineuses ! 
-Pour cela, il faut appuyer sur les boutons attitrés quand la tuile correspondante dépasse la zone claire. 
-La vitesse augmente tout au long du jeu.
+La documentation est disponible [ici](Witching_Hour/README.md)
 
-Vous êtes éliminé si vous appuyez trop tôt, c’est à dire avant que la led de tête n’arrive entièrement dans la zone claire. N’appuyez pas trop tard non plus, appuyez avant que la tuile lumineuse disparaisse. 
+---
+## Yggdrasil par Robin Exbrayat, Luna Martel et Yuxiang Li
 
-Le nombre de points augmentent par temps de pression. Plus vous appuyez longtemps, plus vous remportez des points. Attention à ne pas rester 
-appuyer trop longtemps, vous risquez de perdre la partie.
+![Witching Hour](Yggdrasil/Gif/gif.gif)
 
-La documentation est disponible [ici](La_Guitare_pour_les_heros/Documentation.md)
+Yggdrasil est un jeu électronique inspiré par l’histoire de Thor dans la mythologie nordique dans laquelle Thor va traverser l’arbre monde « Yggdrasil ». En partant d'« Helheim » la partie la plus basse de l'arbre pour arriver à son sommet « Ásgard ».
+
+Le but du jeu :
+
+Un seul joueur participe par partie, incarnant le Dieu Thor en prenant en main son marteau « Mjöllnir ». 
+
+À l'aide de « Mjöllnir », il va lancer le chrono en appuyant sur la partie en cuivre placée au pied de l'arbre, puis parcourir le labyrinthe en prenant le moins de temps possible, tout en faisant attention au piège et en évitant au maximum de toucher les bords sous peine de prendre des malus de temps. Il mettra fin au chrono en appuyant sur la tige de fer qui dépasse au sommet.
+
+Dans un second temps, il est possible aussi de jouer en duo. L'un incarnant Thor et l'autre incarnant Loki. Loki a pour but d'entraver la quête de Thor. Pour cela, celui-ci a en sa possession une télécommande capable de faire tourner la structure entière (gauche ou droite) durant quelques secondes et de façon assez lente.
+
+La documentation est disponible [ici](Yggdrasil/Readme.md)
 
 ---
 ## bouton-LED-bouton par Victor Pérouse & Alice Briolat
@@ -93,15 +70,6 @@ Et c'est reparti ! - Restart
 
 La documentation est disponible [ici](Led_Button/Readme.md)
 
----
-## MaracaGame 🎼 par Noémie El Kholti et Julie Thierry   
-
-![gif](Maraca_game/MARAGAME-l.gif)
-
-A l'aide de deux maracas, deux joueurs collaborent pour reproduire les notes dans la zone de jeu. Inspiré des célèbres jeux vidéo de rythme Samba de Amigo (SEGA, 1999) et Guitar Hero (Activision, 2005), chaque ruban de LED est associé à une maraca. Le but est d'être réactif, pour ne pas manquer une note dans la zone de jeu. Si trop de fausses notes sont réalisées, alors la partie est finie. Trois niveaux de vitesse sont proposés sur une mélodie endiablée. 
-
-La documentation est disponible [ici](Maraca_game/readme.md)
-
 
 ---
 ## SoNAR par Arslan Sifaoui et Ulysse Ducamp
@@ -119,52 +87,6 @@ Le but du jeu est de positionner le sous-marin sur une puce mystère qui est dé
 Lorsque le sous-marin capte la puce mystère, ses lumières gagnent en intensité et son anneau voit une de ses 16 LEDs s'allumer. Une nouvelle puce mystère est alors déterminée, toujours aléatoirement. L'utilisateur devra ainsi trouver 16 puces mystères afin d'allumer les 16 LEDs de l'anneau.
 
 La documentation est disponible [ici](SoNAR/SoNAR.md)
-
-
----
-## Speed Colors par Marie Jollivet et Clara Mahé
-
-![gif](Speed_Colors/gif-l.gif)
-
-Des couleurs s'affiche sur une écran, il faut appuyer sur la couleur correspondante.
-
-Speedcolors est un jeu à deux joueurs. Chaque joueur possède trois boutons, chaque bouton est associé à un LED colorée.
-
-A chaque tour, les joueurs doivent appuyer sur le bouton correspondant à la LED affichant la même couleur que celle affichée sur le ruban principal.
-
-Le jeu continu jusqu'à ce qu'un des joueurs se trompe et perde la partie. Le ruban de LED du joueur perdant s'affiche en rouge et celui du gagnant en blanc.
-
-
-Un joueur perd, son ecran lumineux s'affiche en rouge à contrario un joueur gagne, son ecran lumineux s'affiche en blanc
-
-Le temps est depassé, les joueurs n'ont pas joué à temps.
-
-La documentation est disponible [ici](Speed_Colors/readme.md)
-
----
-## Tape Mouche par Marie Sandevoir
-
-![gif](Tape_Mouche/tapemouche.gif)
-
-Le jeu de la taupe est un jeu d'arcade dont le but est de taper, à l'aide d'un maillet, les taupes sortant de la borne d'arcade. Les taupes sortent de la borne de manière totalement aléatoire. L'objectif étant d'en taper le plus possible dans un temps limité.
-
-Ici, le tape mouche est une déclinaison du tape taupe. En effet, au lieu de taper sur des taupes, le joueur tapera sur des mouches à l'aide d'une tapette à mouche.
-
-La documentation est disponible [ici](Tape_Mouche/readme.md)
-
----
-## Totem Panic par [Théo Geiller](theogeiller.com) and [Raphaël Perraud](raphaelperraud.com)
-
-![gif](Totem_Panic/totem_panic.gif)
-
-Natives are processing a ritual in order that their departed will be able to go to the Nirvana, but the totem gone crazy! Will you achieve to help them and stay on air until the end of the ritual?
-According to the duration the player keeps the soul ball on air, and he will get a shaman rank, from "élan tranquille" to "aigle noir". 
-
-> For now, no one went further than "plume tranquille", we still are waiting for great shamans !
-
-The player can start a game by placing his hand upon the shaman on the right of the board game, and control the soul ball by raising or lowering his hand upon it.
-
-La documentation est disponible [ici](Totem_Panic/README.md)
 
 
 ---
@@ -198,13 +120,118 @@ Le gameplay est simple et intuitif : à chaque pression sur le bouton correspond
 La documentation est disponible [ici](Tron_Run/TronRace.md)
 
 
+
+
+
+
+
 ---
-## Witching Hour par Jeanne Verstraete et Emilie Schaefer
+## La guitare pour les héros par Allan Guégan et Simon Heurtebise
 
-![Witching Hour](Witching_Hour/gif.gif)
 
-A travers le trou de la serrure d'une chambre d'enfant, on peut observer un petit garçon dormir dans son lit, sa chambre étant éclairée par le faible halo de lumière diffusé par une étrange lampe. Pendant la nuit, des monstres s'invitent dans la chambre et viennent infiltrer de terribles cauchemars dans les rêves du petit garçon. Le rôle du joueur est de chasser ces monstres le plus longtemps possible de la chambre de l'enfant, afin de protéger son sommeil. 
+![GIF](La_Guitare_pour_les_heros/gif.gif)
 
-La documentation est disponible [ici](Witching_Hour/README.md)
+Détruisez les tuiles lumineuses ! 
+Pour cela, il faut appuyer sur les boutons attitrés quand la tuile correspondante dépasse la zone claire. 
+La vitesse augmente tout au long du jeu.
 
-[**home**](../README.md)
+Vous êtes éliminé si vous appuyez trop tôt, c’est à dire avant que la led de tête n’arrive entièrement dans la zone claire. N’appuyez pas trop tard non plus, appuyez avant que la tuile lumineuse disparaisse. 
+
+Le nombre de points augmentent par temps de pression. Plus vous appuyez longtemps, plus vous remportez des points. Attention à ne pas rester 
+appuyer trop longtemps, vous risquez de perdre la partie.
+
+La documentation est disponible [ici](La_Guitare_pour_les_heros/Documentation.md)
+
+
+---
+## Kaboum par Juliette Herlem et Paul Joly
+
+![GIF](Kaboum/Kaboum.gif)
+
+
+La base adverse vous attaque mais vous n'allez pas vous laisser faire ! Pour survivre à cette guerre, un seul moyen : **défendre votre base** et attaquer l'ennemi. 
+
+Vous avez deux solutions : utiliser la force pure en envoyant des **bombes rouges** tout droit vers l’ennemi, ou bien utiliser la **magie verte** pour les affaiblir.
+
+Quand deux bombes de même couleur se rencontrent (la vôtre et celle de votre adversaire), cela crée une explosion et elles disparaissent toutes deux. 
+**Plus une explosion est proche de votre base, plus vous subissez de dégâts**.
+Répondre à la bonne couleur et au bon moment est donc indispensable à votre survie. 
+> Si votre adversaire vous envoie une bombe rouge, appuyer rapidement sur le bouton rouge. Faites de même pour les sorts de magie verte.
+
+Vous pouvez toujours voir **vos points sur l'afficheur** devant vous. Attention, s'ils descendent à 0, vous avez perdu ! 
+> Une fois la partie terminée, les afficheurs se remettent à 200 points et la partie recommence ! 
+
+Profitez d'un moment d'inadvertance de votre ennemi pour **attaquer sa base directement**.
+> Une attaque rouge ou verte qui va jusqu’à la base ennemie, sans se faire toucher par une bombe de même couleur : c'est beaucoup plus de points de gagnés !
+
+La documentation est disponible [ici](Kaboum/Notice_de_montage.md)
+
+---
+## Boutons Musicaux par Aurélien Colloc, Léa Ganais et Meriem Gharbi
+
+![GIF](Boutons_musicaux/Boutons_Musicaux_light.gif)
+
+Les boutons musicaux est un jeu électronique inspiré des chaises musicales.
+
+Nous vous proposons une revisite, de l'illustre jeu de la chaise musicale.
+
+Comme dans le jeu original, il y a une musique qui guide les joueurs. Toutefois, à la place des chaises on met des boutons. Et on utilise des Leds pour guider les joueurs entre les manches.
+
+Le jeu est composé d’un boîtier central auquel sont reliés des boutons
+
+(4 exactement). Il y a une succession de tours/manches et à l’issue de celles-ci un des joueurs est éliminé.
+
+Dans notre exemple, il y a 4 participants et donc 3 manches pour éliminer 3 joueurs et déterminer le gagnant puisqu’il faut être le dernier pour remporter la partie.
+
+Pour être le vainqueur, il faut être le plus rapide à presser le bouton à l'arrêt de la musique et de l’animation lumineuse.
+
+Le dernier à appuyer sur le bouton est éliminé et doit attendre la fin de partie pour recommencer.
+
+A noter, à chaques éliminations le jeu indique grâce aux LED qui est éliminé.
+
+La documentation est disponible [ici](Boutons_musicaux/jeu.md)
+
+
+---
+## MaracaGame 🎼 par Noémie El Kholti et Julie Thierry   
+
+![gif](Maraca_game/MARAGAME-l.gif)
+
+A l'aide de deux maracas, deux joueurs collaborent pour reproduire les notes dans la zone de jeu. Inspiré des célèbres jeux vidéo de rythme Samba de Amigo (SEGA, 1999) et Guitar Hero (Activision, 2005), chaque ruban de LED est associé à une maraca. Le but est d'être réactif, pour ne pas manquer une note dans la zone de jeu. Si trop de fausses notes sont réalisées, alors la partie est finie. Trois niveaux de vitesse sont proposés sur une mélodie endiablée. 
+
+La documentation est disponible [ici](Maraca_game/readme.md)
+
+
+---
+## Speed Colors par Marie Jollivet et Clara Mahé
+
+![gif](Speed_Colors/gif-l.gif)
+
+Des couleurs s'affiche sur une écran, il faut appuyer sur la couleur correspondante.
+
+Speedcolors est un jeu à deux joueurs. Chaque joueur possède trois boutons, chaque bouton est associé à un LED colorée.
+
+A chaque tour, les joueurs doivent appuyer sur le bouton correspondant à la LED affichant la même couleur que celle affichée sur le ruban principal.
+
+Le jeu continu jusqu'à ce qu'un des joueurs se trompe et perde la partie. Le ruban de LED du joueur perdant s'affiche en rouge et celui du gagnant en blanc.
+
+
+Un joueur perd, son ecran lumineux s'affiche en rouge à contrario un joueur gagne, son ecran lumineux s'affiche en blanc
+
+Le temps est depassé, les joueurs n'ont pas joué à temps.
+
+La documentation est disponible [ici](Speed_Colors/readme.md)
+
+---
+## Tape Mouche par Marie Sandevoir
+
+![gif](Tape_Mouche/tapemouche.gif)
+
+Le jeu de la taupe est un jeu d'arcade dont le but est de taper, à l'aide d'un maillet, les taupes sortant de la borne d'arcade. Les taupes sortent de la borne de manière totalement aléatoire. L'objectif étant d'en taper le plus possible dans un temps limité.
+
+Ici, le tape mouche est une déclinaison du tape taupe. En effet, au lieu de taper sur des taupes, le joueur tapera sur des mouches à l'aide d'une tapette à mouche.
+
+La documentation est disponible [ici](Tape_Mouche/readme.md)
+
+
+
