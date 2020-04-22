@@ -146,13 +146,26 @@ La documentation est disponible [ici](Speed_Colors/readme.md)
 
 ![gif](Tape_Mouche/tapemouche.gif)
 
-
-
-La documentation est disponible [ici](Tape_Mouche/readme.md)
-
 Le jeu de la taupe est un jeu d'arcade dont le but est de taper, à l'aide d'un maillet, les taupes sortant de la borne d'arcade. Les taupes sortent de la borne de manière totalement aléatoire. L'objectif étant d'en taper le plus possible dans un temps limité.
 
 Ici, le tape mouche est une déclinaison du tape taupe. En effet, au lieu de taper sur des taupes, le joueur tapera sur des mouches à l'aide d'une tapette à mouche.
+
+La documentation est disponible [ici](Tape_Mouche/readme.md)
+
+---
+## Totem Panic par [Théo Geiller](theogeiller.com) and [Raphaël Perraud](raphaelperraud.com)
+
+![gif](Totem_Panic/totem_panic.gif)
+
+Natives are processing a ritual in order that their departed will be able to go to the Nirvana, but the totem gone crazy! Will you achieve to help them and stay on air until the end of the ritual?
+According to the duration the player keeps the soul ball on air, and he will get a shaman rank, from "élan tranquille" to "aigle noir". 
+
+> For now, no one went further than "plume tranquille", we still are waiting for great shamans !
+
+The player can start a game by placing his hand upon the shaman on the right of the board game, and control the soul ball by raising or lowering his hand upon it.
+
+La documentation est disponible [ici](Totem_Panic/README.md)
+
 
 
 [**home**](../README.md)
