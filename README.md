@@ -167,5 +167,22 @@ The player can start a game by placing his hand upon the shaman on the right of 
 La documentation est disponible [ici](Totem_Panic/README.md)
 
 
+---
+## Touch Me par Aurore Tanguy et Hugo Prévost
+
+![Touch_Me/documentation/Feb-13-2020_22-37-22-3.gif](Touch_Me/documentation/Feb-13-2020_22-37-22-3.gif)
+
+- **1** Le jeu consiste, en premier, à enfiler le gilet.
+- **2** Une zone va s’activer à l’aide d’un vibreur et d’une led, qui s’enclenchent en même temps. L’objectif est de stimuler le sens du toucher et de la vue.
+- **3** Le but : toucher la zone le plus rapidement possible avant qu’elle ne s’arrête de vibrer.
+- **4** Une fois touchée, la zone va changer de place et ainsi de suite.
+
+Pour ajouter du gameplay à notre jeu, nous avons choisi de donner trois vies à l’utilisateur. Si l’utilisateur se trompe de zone, il perd une vie. Et s’il prend trop de temps pour toucher la zone, il perd une vie. Plus l’utilisateur va avancer dans les niveaux, plus le temps d’activation de la zone sera courte. Quand l’utilisateur perds toutes ses vies, la partie est finie. Alors bon courage pour déjouer la stratégie de TouchMe. À vous de jouer.
+
+
+La documentation est disponible [ici](Touch_Me/documentation.md)
+
+
+
 
 [**home**](../README.md)
