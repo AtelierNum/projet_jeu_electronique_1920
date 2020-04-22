@@ -141,6 +141,18 @@ Le temps est depassé, les joueurs n'ont pas joué à temps.
 
 La documentation est disponible [ici](Speed_Colors/readme.md)
 
+---
+## Tape Mouche par Marie Sandevoir
+
+![gif](Tape_Mouche/tapemouche.gif)
+
+
+
+La documentation est disponible [ici](Tape_Mouche/readme.md)
+
+Le jeu de la taupe est un jeu d'arcade dont le but est de taper, à l'aide d'un maillet, les taupes sortant de la borne d'arcade. Les taupes sortent de la borne de manière totalement aléatoire. L'objectif étant d'en taper le plus possible dans un temps limité.
+
+Ici, le tape mouche est une déclinaison du tape taupe. En effet, au lieu de taper sur des taupes, le joueur tapera sur des mouches à l'aide d'une tapette à mouche.
 
 
 [**home**](../README.md)
