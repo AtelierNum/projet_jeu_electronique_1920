@@ -34,7 +34,7 @@ A travers le trou de la serrure d'une chambre d'enfant, on peut observer un peti
 La documentation est disponible [ici](Witching_Hour/README.md)
 
 ---
-## Yggdrasil par Robin Exbrayat, Luna Martel et Yuxiang Li
+## Yggdrasil par Robin Exbrayat Luna Martel et Yuxiang Li
 
 ![Witching Hour](Yggdrasil/Gif/gif.gif)
 
@@ -51,7 +51,7 @@ Dans un second temps, il est possible aussi de jouer en duo. L'un incarnant Thor
 La documentation est disponible [ici](Yggdrasil/Readme.md)
 
 ---
-## bouton-LED-bouton par Victor Pérouse & Alice Briolat
+## bouton-LED-bouton par Victor Pérouse et Alice Briolat
 
 
 ![Readme/Jeu.gif](Led_Button/Jeu.gif)
