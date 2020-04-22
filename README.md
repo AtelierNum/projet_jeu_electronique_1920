@@ -199,25 +199,12 @@ La documentation est disponible [ici](Tron_Run/TronRace.md)
 
 
 ---
-## Witching Hour par Aurore Tanguy et Hugo Prévost
+## Witching Hour par Jeanne Verstraete et Emilie Schaefer
 
-![Tron_Run](Tron_Run/tronrace.gif)
+![Witching Hour](Witching_Hour/gif.gif)
 
-Tron race est un jeu de type arcade fonction sous arduino, monté initialement sur une carte arduino UNO.
+A travers le trou de la serrure d'une chambre d'enfant, on peut observer un petit garçon dormir dans son lit, sa chambre étant éclairée par le faible halo de lumière diffusé par une étrange lampe. Pendant la nuit, des monstres s'invitent dans la chambre et viennent infiltrer de terribles cauchemars dans les rêves du petit garçon. Le rôle du joueur est de chasser ces monstres le plus longtemps possible de la chambre de l'enfant, afin de protéger son sommeil. 
 
-Le jeu reprend l'idée et l'univers des courses de motos de la célèbre saga ***Tron***.
-
-Le gameplay est simple et intuitif : à chaque pression sur le bouton correspondant à votre couleur de joueur, votre LED avance d'une unité. Ainsi, pour gagner la course et faire s'illuminer le circuit de votre couleur il faudra être plus rapide que votre adversaire.
-
-À vous de jouer, bonne chance !
-
-La documentation est disponible [ici](Tron_Run/TronRace.md)
-
-
-
-
-
-
-
+La documentation est disponible [ici](Witching_Hour/README.md)
 
 [**home**](../README.md)
