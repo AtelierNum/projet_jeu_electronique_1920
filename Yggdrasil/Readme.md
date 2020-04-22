@@ -16,11 +16,11 @@ Dans un second temps, il est possible aussi de jouer en duo. L'un incarnant Thor
 
 ## Notice de montage
 
-![Schemas/schema_composant.png](Schemas/schema_composant.png)
+![composant](Schemas/schema_composant.png)
 
-![Schemas/schema_composant.png](Schemas/schema_exterieur.png)
+![inter](Schemas/schema_exterieur.png)
 
-![Schemas/schema_composant.png](Schemas/schema_interieur.png)
+![exter](Schemas/schema_interieur.png)
 
 ### Liste des matériaux :
 

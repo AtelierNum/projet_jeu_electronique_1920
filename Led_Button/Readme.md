@@ -4,7 +4,7 @@
 
 ## **Par Victor Pérouse & Alice Briolat**
 
-![Readme/Jeu.gif](Readme/Jeu.gif)
+![gif](Readme/Jeu.gif)
 
 ---
 
