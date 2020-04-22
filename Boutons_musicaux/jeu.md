@@ -60,7 +60,7 @@ A noter, à chaques éliminations le jeu indique grâce aux LED qui est élimin�
 Un jeu de société, pour des groupes d'amis qui souhaitent s'amuser 
 https://www.youtube.com/watch?v=MnPmntuMb7s
 
-<div>
+<div class="video_container">
 <iframe src="https://www.youtube.com/embed/MnPmntuMb7s" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
