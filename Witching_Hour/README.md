@@ -8,7 +8,7 @@ A travers le trou de la serrure d'une chambre d'enfant, on peut observer un peti
 
 Le décor du jeu est plongé dans des lumières artificielles et saturées qui lui donnent une ambiance magique entre l'enfantin et le glauque. Nous avons voulu créer un univers de magie contemporaine, où la sorcellerie s'invite dans le numérique. C'est pourquoi nous avons appelé le jeu Witching Hour, soit le moment de la nuit où la magie noire est la plus puissante, et où les sorcières, démons, et fantômes sortent dans la culture celtique.
 
-![assets/WhatsApp_Image_2020-02-13_at_17.57.40.jpeg](assets/WhatsApp_Image_2020-02-13_at_17.57.40.jpeg)
+![image](assets/WhatsApp_Image_2020-02-13_at_17.57.40.jpeg)
 
 ![assets//WhatsApp_Image_2020-02-13_at_17.56.59.jpeg](assets/WhatsApp_Image_2020-02-13_at_17.56.59.jpeg)
 

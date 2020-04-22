@@ -10,7 +10,7 @@ Les fichiers peuvent-être téléchargés sur [github](https://github.com/Atelie
 
 
 ---
-## Totem Panic par [Théo Geiller](theogeiller.com) and [Raphaël Perraud](raphaelperraud.com)
+## Totem Panic par Théo Geiller and Raphaël Perraud
 
 ![gif](Totem_Panic/totem_panic.gif)
 
@@ -167,7 +167,7 @@ Profitez d'un moment d'inadvertance de votre ennemi pour **attaquer sa base dire
 La documentation est disponible [ici](Kaboum/Notice_de_montage.md)
 
 ---
-## Boutons Musicaux par Aurélien Colloc, Léa Ganais et Meriem Gharbi
+## Boutons Musicaux par Aurélien Colloc Léa Ganais et Meriem Gharbi
 
 ![GIF](Boutons_musicaux/Boutons_Musicaux_light.gif)
 
